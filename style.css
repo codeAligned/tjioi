@@ -89,3 +89,6 @@ h3 {
     background-color: #f8f8f8;
     border-bottom: 1px solid #88b;
 }
+.stroke {
+	-webkit-text-stroke: 1px black;
+}
