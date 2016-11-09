@@ -2,7 +2,7 @@ body {
     font-family: 'Roboto', sans-serif;
     /*max-width: 60em;*/
     /*border: 1px solid black;*/
-    margin-top: 1em;
+    margin-top: 0em;
 }
 
 .navbar, .hero-content, .content {
@@ -18,7 +18,7 @@ body {
 }
 
 .nav.navbar-nav.navbar-right li a {
-    font-size: 20pt;
+    font-size: 18pt;
     color: white;
     line-height: 75px;
 }
@@ -61,7 +61,7 @@ body {
     margin-bottom: 0;
 }
 .hero-content h2 {
-    font-size: 24pt;
+    font-size: 20pt;
 }
 .hero-content h3 {
     font-size: 18pt;
