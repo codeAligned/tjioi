@@ -13,11 +13,19 @@ body {
 
 .navbar {
     z-index: 2;
+    background: transparent;
+    border: 0px;
 }
 
-.nav-logo {
+.nav.navbar-nav.navbar-right li a {
+    font-size: 20pt;
+    color: white;
+    line-height: 75px;
+}
+
+.navbar-logo {
     vertical-align: middle;
-    height: 40px;
+    height: 100px;
     margin-top: 8px;
 }
 
@@ -49,14 +57,14 @@ body {
     margin-top: 200px;
 }
 .hero-content h1 {
-    font-size: 30pt;
+    font-size: 36pt;
     margin-bottom: 0;
 }
 .hero-content h2 {
-    font-size: 18pt;
+    font-size: 24pt;
 }
 .hero-content h3 {
-    font-size: 14pt;
+    font-size: 18pt;
 }
 
 .schedule {
@@ -67,7 +75,8 @@ body {
 .content {
     font-size: 14pt;
     padding: 16px 32px;
-    background-color: #f8f8f8;
+    /*background-color: #f8f8f8;*/
+    background-color: white;
     border-bottom: 1px solid #88b;
 }
 
