@@ -81,5 +81,5 @@ body {
 }
 
 .selectedTab {
-	color: LightGreen;
+	color: LightGreen !important;
 }
