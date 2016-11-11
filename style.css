@@ -99,6 +99,10 @@ body {
     margin: 0 auto;
 }
 
+.content p a {
+    color: rgba(76, 175, 80, 255);	
+}
+
 .selectedTab {
     color: LightGreen !important;
 }
