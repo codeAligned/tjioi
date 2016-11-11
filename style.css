@@ -17,10 +17,13 @@ body {
     border: 0px;
 }
 
+.nav.navbar-nav.navbar-right {
+    margin-top: 20px;
+}
+
 .nav.navbar-nav.navbar-right li a {
     font-size: 18pt;
     color: white;
-    line-height: 75px;
 }
 
 .navbar-logo {
@@ -71,13 +74,17 @@ body {
     font-size: 12pt;
 }
 
-
 .content {
     font-size: 14pt;
     padding: 16px 32px;
     /*background-color: #f8f8f8;*/
     background-color: white;
     border-bottom: 1px solid #88b;
+}
+
+.content iframe {
+    display: block;
+    margin: 0 auto;
 }
 
 .selectedTab {
