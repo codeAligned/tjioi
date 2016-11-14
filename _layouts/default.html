@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: "en" }}">
+
+  {% include head.html %}
+
+  <body>
+
+    {% if page.use_hero %}
+    {% include hero-header.html %}
+    {% else %}
+    {% include header.html %}
+    {% endif %}
+
+    <main class="content">
+      {{ content }}
+    </main>
+
+    {% include footer.html %}
+
+  </body>
+
+</html>
+

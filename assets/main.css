@@ -61,7 +61,7 @@ body {
     position: relative;
     padding: 16px;
     color: white;
-    background-image: url(src/hao_image_large_blur.jpg);
+    background-image: url(/assets/img/hao_image_large_blur.jpg);
     background-position: center 20%;
     background-size: cover;
 }

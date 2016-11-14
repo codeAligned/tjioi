@@ -1,0 +1,15 @@
+<nav class="navbar{%if page.use_hero %} transparent{% endif %}">
+    <div class="container-fluid">
+        <div class="navbar-header">
+            <a href="index.html"><img src="/assets/img/logo.svg" class="navbar-logo"></a>
+        </div>
+        <ul class="nav navbar-nav navbar-right">
+            <li><a href="/" class="{% if page.permalink == '/' %}selectedTab{% endif %}">Home</a></li>
+            <li><a href="/about/" class="{% if page.permalink == '/about/' %}selectedTab{% endif %}">About</a></li>
+            <li><a href="/faq/" class="{% if page.permalink == '/faq/' %}selectedTab{% endif %}">FAQ</a></li>
+            <li><a href="/contest/" class="{% if page.permalink == '/contest/' %}selectedTab{% endif %}">Contest</a></li>
+            <li><a href="/registration/" class="{% if page.permalink == '/registration/' %}selectedTab{% endif %}">Registration</a></li>
+        </ul>
+    </div>
+</nav>
+
