@@ -1,14 +1,16 @@
 <nav class="navbar{%if page.use_hero %} transparent{% endif %}">
     <div class="container-fluid">
         <div class="navbar-header">
-            <a href="index.html"><img src="/assets/img/logo.svg" class="navbar-logo"></a>
+            <a href="{{ '/' | relative_url }}">
+                <img src="{{ '/assets/img/logo.svg' | relative_url }}" class="navbar-logo">
+            </a>
         </div>
         <ul class="nav navbar-nav navbar-right">
-            <li><a href="/" class="{% if page.permalink == '/' %}selectedTab{% endif %}">Home</a></li>
-            <li><a href="/about/" class="{% if page.permalink == '/about/' %}selectedTab{% endif %}">About</a></li>
-            <li><a href="/faq/" class="{% if page.permalink == '/faq/' %}selectedTab{% endif %}">FAQ</a></li>
-            <li><a href="/contest/" class="{% if page.permalink == '/contest/' %}selectedTab{% endif %}">Contest</a></li>
-            <li><a href="/registration/" class="{% if page.permalink == '/registration/' %}selectedTab{% endif %}">Registration</a></li>
+            {% for my_page in site.pages %}
+            {% if my_page.title %}
+            <li><a href="{{ my_page.url | relative_url }}" class="{% if page.permalink == my_page.permalink %}selectedTab{% endif %}">{{ my_page.title | escape }}</a></li>
+            {% endif %}
+            {% endfor %}
         </ul>
     </div>
 </nav>
