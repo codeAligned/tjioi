@@ -5,15 +5,17 @@
 
   <body>
 
-    {% if page.use_hero %}
-    {% include hero-header.html %}
-    {% else %}
-    {% include header.html %}
-    {% endif %}
+    <div class="page-wrapper">
+      {% if page.use_hero %}
+      {% include hero-header.html %}
+      {% else %}
+      {% include header.html %}
+      {% endif %}
 
-    <main class="content">
-      {{ content }}
-    </main>
+      <main class="content">
+        {{ content }}
+      </main>
+    </div>
 
     {% include footer.html %}
 

@@ -1,9 +1,14 @@
+html, body {
+    height: 100%;
+}
+
 body {
     font-family: 'Roboto', sans-serif;
     /*max-width: 60em;*/
     /*border: 1px solid black;*/
     margin-top: 0em;
     overflow-y: scroll;
+    font-size: 14pt;
 }
 
 .hero-content, .content {
@@ -101,7 +106,6 @@ body {
 }
 
 .content {
-    font-size: 14pt;
     padding: 16px 32px;
     /*background-color: #f8f8f8;*/
     background-color: white;
@@ -114,9 +118,24 @@ body {
 }
 
 .content p a {
-    color: rgba(76, 175, 80, 255);	
+    color: rgba(76, 175, 80, 255);  
 }
 
 .selectedTab {
     color: LightGreen !important;
+}
+
+.page-wrapper {
+    min-height: 100%;
+    height: auto;
+    margin: 0 auto -40px;
+    padding: 0 0 40px;
+}
+
+footer {
+    height: 40px;
+    color: white;
+    background-color: grey;
+    line-height: 40px;
+    text-align: center;
 }
