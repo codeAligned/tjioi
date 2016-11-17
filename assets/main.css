@@ -19,7 +19,7 @@ body {
 
 .navbar {
     z-index: 2;
-    background: grey;
+    background: #607D8B;
     border: 0px;
     border-radius: 0;
     width: 100%;
@@ -118,7 +118,7 @@ body {
 }
 
 .content p a {
-    color: rgba(76, 175, 80, 255);  
+    color: rgba(76, 175, 80, 255) !important;  
 }
 
 .selectedTab {
@@ -135,7 +135,11 @@ body {
 footer {
     height: 40px;
     color: white;
-    background-color: grey;
+    background-color: #607D8B;
     line-height: 40px;
     text-align: center;
+}
+
+footer a {
+    color: LightGreen !important;
 }
