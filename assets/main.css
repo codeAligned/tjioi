@@ -1,3 +1,7 @@
+html {
+    font-size: 1rem;
+}
+
 html, body {
     height: 100%;
 }
@@ -8,11 +12,11 @@ body {
     /*border: 1px solid black;*/
     margin-top: 0em;
     overflow-y: scroll;
-    font-size: 14pt;
+    font-size: 1.2rem;
 }
 
 .hero-content, .content {
-    max-width: 100rem;
+    max-width: 60rem;
     margin-left: auto;
     margin-right: auto;
 }
@@ -35,7 +39,7 @@ body {
 }
 
 .nav.navbar-nav.navbar-right li a {
-    font-size: 16pt;
+    font-size: 1.4rem;
     color: white;
     background-color: transparent;
     transition: background-color .2s;
@@ -83,16 +87,16 @@ body {
     }
 }
 .hero-content h1 {
-    font-size: 36pt;
+    font-size: 3rem;
     margin-bottom: 0;
     font-weight: 300;
 }
 .hero-content h2 {
-    font-size: 20pt;
+    font-size: 1.7rem;
     font-weight: 400;
 }
 .hero-content h3 {
-    font-size: 18pt;
+    font-size: 1.5rem;
     font-weight: 400;
     margin-top: 0;
 }
@@ -102,7 +106,7 @@ body {
 }
 
 .schedule {
-    font-size: 12pt;
+    font-size: 1rem;
 }
 
 .content {
