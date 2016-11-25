@@ -132,12 +132,12 @@ body {
     margin: 0 auto;
 }
 
-.content p a {
-    color: rgba(76, 175, 80, 255) !important;  
+.content a {
+    color: #4caf50;
 }
 
 .selectedTab {
-    color: LightGreen !important;
+    color: #81c784 !important;
 }
 
 .page-wrapper {
@@ -161,5 +161,5 @@ footer {
 }
 
 footer a {
-    color: LightGreen !important;
+    color: #81c784 !important;
 }
