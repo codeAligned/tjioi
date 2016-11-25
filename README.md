@@ -1,6 +1,8 @@
 # TJ IOI Website
 The website for TJ IOI 2017. Currently, TJ IOI is being run by SCT. If you'd like to help out, contact the SCT officers.
 
+Note that this repo is automatically deployed to https://tjsct.github.io/tjioi/. However, the official website is https://activites.tjhsst.edu/tjioi/, which requires someone to manually pull the Git repo. Don't be too afraid to push commits to the repo: they won't automatically go up on the official URL!
+
 Some general guidelines:
 
 * Keep it professional, please. This is going to be seen by potential sponsors and teachers from other high schools. Your words reflect on TJ.
@@ -9,9 +11,6 @@ Some general guidelines:
 * Currently, indentation is kind of inconsistent. Use either two or four spaces, and be consistent with the surrounding code. If you use three spaces, this incident will be reported.
 * Do not make fourteen commits in a row that change one line of code. Seriously. If you really want to, do it in a branch, then rebase it onto master.
 
-More notes:
-* This repo is automatically deployed to https://tjsct.github.io/tjioi/. The official URL is https://activites.tjhsst.edu/tjioi/, which requires someone who has access to manually pull the Git repo. So don't be too afraid to push commits to the repo; they won't automatically go up on the official URL!
-* The accounts for Google Analytics, Webmaster Tools, and API Console are all handled by tjhsstsctcaptains@gmail.com; some are also used for SCT things. It may be necessary to change this in the future, if TJ IOI has its own officership in the future.
 
 ## Setting up Jekyll
 This site runs on Jekyll. To use that, first you need to install Ruby and DevKit or whatever. If you're on Ubuntu/Debian, run `apt-get install ruby ruby-dev`. If you're on Windows, try following the instructions at https://labs.sverrirs.com/jekyll//1-ruby-and-devkit.html, and good luck.
