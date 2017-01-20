@@ -125,11 +125,10 @@ body {
     /*background-color: #f8f8f8;*/
     background-color: white;
     margin-bottom: 2rem;
-    border-bottom: 1px solid #88b;
 }
 
-.content p, .content table {
-    margin-bottom: 2rem;
+.content h3 {
+    margin-top: 2rem;
 }
 
 .content iframe {
