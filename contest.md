@@ -21,10 +21,11 @@ The written round is 1 hour long. Its purpose is to allow you and your team to e
 
 We'll start the round by giving you some background information on a topic. You'll use this information to develop insights into specific problems, and different algorithmic approaches towards solving those problems. Then, we'll test your comprehension by asking you to answer questions, illustrate ideas, or develop informal proofs.
 
-### Programming problems
+### Programming section
 
 The programming round is 3 hours long, and it's more similar to what you might find at other programming competitions. It consists of 10 problems, which you will have three hours to solve by writing a program and submitting it to the grading server. The problems will test the material contained in the study guide, spanning a wide range of difficulty. So that you can get an idea of the kind of problems we'll have, we'll release a few sample problems as part of our study materials.
 
+For technical information and rules, see the [FAQ]({{ '/faq/' | relative_url }}).
 
 ## TJ IOI 2013
 

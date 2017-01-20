@@ -127,7 +127,7 @@ body {
     margin-bottom: 2rem;
 }
 
-.content h3 {
+.content h1, .content h2, .content h3 {
     margin-top: 2rem;
 }
 
