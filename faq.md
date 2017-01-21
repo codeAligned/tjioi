@@ -26,7 +26,7 @@ Any high school or secondary school is invited to send students to TJ IOI, apart
 * **How many people are on a team?**<br>
 A team consists of four people. Each team must have one coach.
 * **How many teams can register?**<br>
-We can guarantee a spot for the first two teams from a school. Any additional teams will be placed on a waitlist.
+We can guarantee a spot for the first two teams from a school, up to a cap. Any additional teams will be placed on a waitlist.
 * **Can I register as an individual or homeschool student?**<br>
 If you are not part of a team, we may still be able to let you register. Please email us for more information.
 
