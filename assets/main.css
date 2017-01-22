@@ -120,6 +120,11 @@ body {
     font-size: 1rem;
 }
 
+.full {
+    width: 60%;
+    margin: 10px auto;
+}
+
 .content {
     padding: 16px 32px;
     /*background-color: #f8f8f8;*/
