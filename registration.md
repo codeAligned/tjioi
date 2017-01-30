@@ -6,6 +6,9 @@ permalink: /registration/
 
 # Registration process
 
+As of Monday, January 30, 2017, registration for TJ IOI 2017 is now open! We can't wait to see you
+at the competition. Please register as soon as possible, so that we can guarantee your team a spot.
+
 Note that we can only guarantee spots for the first two teams per school, and the first 27 teams overall.
 We will only reserve a spot once you complete Part 1 below. Any teams without a reserved spot will be
 placed on the waitlist.
@@ -38,10 +41,11 @@ placed on the waitlist.
 
 1.  <p>Have each student complete the Media Release Form (<em>to be posted shortly</em>). This can either be
     sent in the mail, scanned and sent by e-mail, or brought in person. This is <strong>required</strong> to participate.
-    Additionally, make sure that your students complete any other forms required by your district.</p>
+    Additionally, make sure that your students complete any other forms required by your school or school district.</p>
 2.  <p>Ask your students to complete the student survey (<em>to be posted shortly</em>).</p>
 3.  <p>After the registration deadline, if there are any changes to your team, notify us as soon as possible.</p>
 4.  <p>When study materials are released, we encourage your students to review them to prepare for
-    the competition! If your school has a <strong>computer science club</strong>, please encourage them to use our
-    materials, and get in touch with us. If not, why not try to start one?</p>
+    the competition! If your school has a <strong>computer science club</strong>, we'd love for them to
+    take advantage of our materials. If not, why not try to start one? Either way, please keep in touch
+    with us with how you're using our materials!</p>
 
