@@ -6,10 +6,12 @@ permalink: /registration/
 
 # Registration process
 
-As of Monday, January 30, 2017, registration for TJ IOI 2017 is now open! We can't wait to see you
-at the competition. Please register as soon as possible, so that we can guarantee your team a spot.
+As of Monday, January 30, 2017, registration for TJ IOI 2017 is now open! Please register as soon as
+possible, so that we can guarantee your team a spot. We hope you can come!
 
 Note that we can only guarantee spots for the first two teams per school, and the first 27 teams overall.
+For more details on registration limitations, see [the FAQ]({{ '/faq' | relative_url }}).
+
 We will only reserve a spot once you complete Part 1 below. Any teams without a reserved spot will be
 placed on the waitlist.
 
@@ -27,14 +29,15 @@ placed on the waitlist.
 3.  <p>Next, send a check for the registration fee of $50, payable to TJHSST, addressed as follows:</p>
     <div class="panel panel-default">
         <div class="panel-body">
-            TJHSST attn: Thomas Rudwick<br>
+            Attn: Thomas Rudwick<br>
+            TJHSST<br>
             6560 Braddock Road<br>
             Alexandria, VA 22312
         </div>
     </div>
 4.  <p>Once we receive your check, we will inform you via email. If we are able to do so, we will reserve a
     spot for your team. If we are unable to, your team will be placed on the waitlist.
-    <em>We will not cash your check until we can reserve a spot for your team.</em></p>
+    <em>We will not cash your check until we have reserved a spot for your team.</em></p>
 
 
 ## Part 2. Before the competition

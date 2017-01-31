@@ -22,11 +22,11 @@ Our competition is aimed towards high schoolers who have already taken a compute
 * **Is there a registration fee?**<br>
 The registration fee is **$50 per team**. If the cost of attendance is prohibitive, we may be able to waive the fee; please email us at [tjioiofficers@gmail.com](mailto:tjioiofficers@gmail.com).
 * **Who will be able to participate?**<br>
-Any high school or secondary school is invited to send students to TJ IOI, apart from TJHSST itself. Though our focus is on schools in Northern Virginia, schools from other jurisdictions are also welcome.
+Any high school or secondary school is invited to send students to TJ IOI, apart from TJHSST itself. Though our focus is on schools in Northern Virginia, schools from other jurisdictions are also welcome. All students on the team must attend the same school, and must be enrolled in the equivalent of grades 9-12.
 * **How many people are on a team?**<br>
-A team consists of four people. Each team must have one coach.
+A team consists of four people. Each team must have one coach, who will chaperone the team.
 * **How many teams can register?**<br>
-We can guarantee a spot for the first two teams from a school, up to a cap. Any additional teams will be placed on a waitlist.
+We can guarantee a spot for the first two teams from a school, up to a cap of 27 teams. Any additional teams will be placed on a waitlist. We will only attempt to reserve a spot for your team once we receive your registration fee, and we will only cash your check once we have successfully reserved a spot.
 * **Can I register as an individual or homeschool student?**<br>
 If you are not part of a team, we may still be able to let you register. Please email us for more information.
 
