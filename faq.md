@@ -33,6 +33,7 @@ If you are not part of a team, we may still be able to let you register. Please 
 ## Programming round
 
 * Allowed languages are C, C++, Java, and Python 3.
+* Online documentation for these languages will be provided during the programming round.
 * Each team will be given one computer to use, which we will provide.
 * Contestants are not permitted to bring any personal electronic devices, including phones, flash drives, and keyboards.
 * No access to the Internet, with the exception of the contest site, is permitted during the contest.
