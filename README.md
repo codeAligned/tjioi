@@ -9,8 +9,6 @@ Some general guidelines:
 * Prefer to use existing Bootstrap styles over writing your own CSS.
 * To create links: `<a href="{{ '/registration/' | relative_url }}">Registration</a>`. Because Jekyll. And because the base URL changes.
 * Currently, indentation is kind of inconsistent. Use either two or four spaces, and be consistent with the surrounding code. If you use three spaces, this incident will be reported.
-* Do not make fourteen commits in a row that change one line of code. Seriously. If you really want to, do it in a branch, then rebase it onto master.
-
 
 ## Setting up Jekyll
 This site runs on Jekyll. To use that, first you need to install Ruby and DevKit or whatever. If you're on Ubuntu/Debian, run `apt-get install ruby ruby-dev`. If you're on Windows, try following the instructions at https://labs.sverrirs.com/jekyll//1-ruby-and-devkit.html, and good luck.
