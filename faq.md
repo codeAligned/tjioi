@@ -44,7 +44,7 @@ If you are not part of a team, we may still be able to let you register. Please 
 
 This configuration is subject to change as we approach the competition, but this should be reasonably close to the actual configuration.
 
-* *Operating system:* Debian 8 with Cinnamon
+* *Operating system:* Ubuntu 16.04
 * *Installed runtimes:* GCC, Java 8, Python 3
 * *IDEs:* Eclipse, jGRASP
 * *Text editors:* Vim, Emacs, Gedit, Geany, IDLE
