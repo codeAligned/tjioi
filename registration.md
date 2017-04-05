@@ -24,8 +24,8 @@ placed on the waitlist.
     <p><a class="btn btn-success btn-lg" style="color: white" target="_blank"
         href="https://goo.gl/forms/A98asfYD1NKyzw642">Registration form</a></p>
 2.  <p>Once you submit the form, you will automatically receive an email with your responses
-    and a link to edit your responses. You may update information for your team, including the
-    team name or students, before the registration deadline on April 15.</p>
+    and a link to edit your responses. You may use this link to update information for your team, including
+    the team name or students, before the registration deadline on April 15.</p>
 3.  <p>Next, send a check for the registration fee of $50, payable to TJHSST, addressed as follows:</p>
     <div class="panel panel-default">
         <div class="panel-body">
@@ -42,10 +42,11 @@ placed on the waitlist.
 
 ## Part 2. Before the competition
 
-1.  <p>Have each student complete the Media Release Form (<em>to be posted shortly</em>). This can either be
-    sent in the mail, scanned and sent by e-mail, or brought in person. This is <strong>required</strong> to participate.
+1.  <p>Have each student complete the <a href="{{ '/materials/2017/MediaReleaseForm.pdf' | relative_url }}">Media Release Form</a>.
+    This can either be sent in the mail, scanned and sent by e-mail, or brought in person.
+    This is <strong>required</strong> to participate.
     Additionally, make sure that your students complete any other forms required by your school or school district.</p>
-2.  <p>Ask your students to complete the student survey (<em>to be posted shortly</em>).</p>
+2.  <p>Ask your students to complete the <a href="https://goo.gl/forms/w4xfLgAwYoCmcQEL2">student survey</a>.</p>
 3.  <p>After the registration deadline on <strong>April 15</strong>, if there are any changes to your team,
     notify us by email at <a href="mailto:tjioiofficers@gmail.com">tjioiofficers@gmail.com</a> as soon as possible.</p>
 4.  <p>When study materials are released, we encourage your students to review them to prepare for

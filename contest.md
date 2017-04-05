@@ -13,7 +13,7 @@ TJ IOI consists of a written and a programming section.
 
 ### Study materials
 
-We'll develop a series of study materials to help you prepare for the contest. The contest will require some prior background in programming. The study materials will be made available by mid-February. We'll do our best to coordinate with computer science clubs at participating high schools to effectively use those materials.
+As of April 5, 2017, we've released our [2017 Study Guide]({{ '/materials/2017/StudyGuide.pdf' | relative_url }}), which you can review to prepare for the competition. We apologize for the delay in releasing these materials, but we hope that they will be useful for you nonetheless.
 
 ### Written section
 
