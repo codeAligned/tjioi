@@ -6,7 +6,7 @@ permalink: /registration/
 
 # Registration process
 
-Registration for TJ IOI 2017 is now open! The registration deadline is **Saturday, April 15, 2017.**
+Registration for TJ IOI 2017 is now open! The registration deadline is **Wednesday, April 19, 2017.**
 Please register as soon as possible, so that we can guarantee your team a spot. We hope you can come!
 
 Note that we can only guarantee spots for the first two teams per school, and the first 27 teams overall.
@@ -47,7 +47,7 @@ placed on the waitlist.
     This is <strong>required</strong> to participate.
     Additionally, make sure that your students complete any other forms required by your school or school district.</p>
 2.  <p>Ask your students to complete the <a href="https://goo.gl/forms/w4xfLgAwYoCmcQEL2">student survey</a>.</p>
-3.  <p>After the registration deadline on <strong>April 15</strong>, if there are any changes to your team,
+3.  <p>After the registration deadline on <strong>April 19</strong>, if there are any changes to your team,
     notify us by email at <a href="mailto:tjioiofficers@gmail.com">tjioiofficers@gmail.com</a> as soon as possible.</p>
 4.  <p>When study materials are released, we encourage your students to review them to prepare for
     the competition! If your school has a <strong>computer science club</strong>, we'd love for them to
