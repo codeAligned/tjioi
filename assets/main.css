@@ -136,11 +136,6 @@ body {
     margin-top: 2rem;
 }
 
-.content iframe {
-    display: block;
-    margin: 0 auto;
-}
-
 .content a {
     color: #4caf50;
 }
@@ -154,11 +149,6 @@ body {
     height: auto;
     margin: 0 auto -40px;
     padding: 0 0 40px;
-}
-
-iframe {
-    width: 100%;
-    min-height: 70vh;
 }
 
 footer {
