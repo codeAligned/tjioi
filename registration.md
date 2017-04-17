@@ -56,7 +56,7 @@ For more details on registration limitations, see [the FAQ]({{ '/faq' | relative
     <a href="https://goo.gl/forms/w4xfLgAwYoCmcQEL2">Student Information Form</a>.
     This will help us create a better competition this year and in the future.</p>
 3.  <p>We encourage your team to review the
-    <a href="{{ '/materials/2017/StudyGuide.pdf' | relative_url }}">2017 Study Guide</a>
+    <a href="{{ '/materials/2017/StudyGuide.pdf' | relative_url }}">2017 Study Guide (pdf)</a>
     to prepare for the competition. Please keep in touch with us about how you're using our materials!</p>
 
 <p class="text-center">
@@ -65,6 +65,6 @@ For more details on registration limitations, see [the FAQ]({{ '/faq' | relative
     <a class="btn btn-primary btn-lg" style="color: white" target="_blank"
         href="https://goo.gl/forms/w4xfLgAwYoCmcQEL2">Student Information Form</a>
     <a class="btn btn-success btn-lg" style="color: white" target="_blank"
-        href="{{ '/materials/2017/StudyGuide.pdf' | relative_url }}">2017 Study Guide</a>
+        href="{{ '/materials/2017/StudyGuide.pdf' | relative_url }}">2017 Study Guide (pdf)</a>
 </p>
 

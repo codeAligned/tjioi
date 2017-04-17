@@ -13,7 +13,7 @@ TJ IOI consists of a written and a programming section.
 
 ### Study materials
 
-As of April 5, 2017, we've released our [2017 Study Guide]({{ '/materials/2017/StudyGuide.pdf' | relative_url }}), which you can review to prepare for the competition. We apologize for the delay in releasing these materials, but we hope that they will be useful for you nonetheless.
+As of April 5, 2017, we've released our [2017 Study Guide (pdf)]({{ '/materials/2017/StudyGuide.pdf' | relative_url }}), which you can review to prepare for the competition. We apologize for the delay in releasing these materials, but we hope that they will be useful for you nonetheless.
 
 ### Written section
 
