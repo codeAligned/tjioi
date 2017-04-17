@@ -23,7 +23,7 @@ body {
 
 .navbar {
     z-index: 2;
-    background: #607D8B;
+    background: #424242;
     border: 0px;
     border-radius: 0;
     width: 100%;
@@ -71,6 +71,7 @@ body {
     position: relative;
     padding: 16px;
     color: white;
+    background-color: #424242;
     background-image: url(img/tj_dome.jpg);
     background-position: center 0%;
     background-size: cover;
@@ -152,11 +153,10 @@ body {
 }
 
 footer {
-    height: 40px;
     color: white;
-    background-color: #607D8B;
-    line-height: 40px;
+    background-color: #424242;
     text-align: center;
+    padding: 16px;
 }
 
 footer a {
