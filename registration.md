@@ -6,12 +6,16 @@ permalink: /registration/
 
 # Registration process
 
+Registration for TJ IOI 2017 closed on **Wednesday, April 19, 2017.**
+If you weren't able to register, we hope to see you next year!
+
+<!--
 Registration for TJ IOI 2017 is now open! The registration deadline is **Wednesday, April 19, 2017.**
 Please register as soon as possible, so that we can guarantee your team a spot. We hope you can come!
 
 Note that we can only guarantee spots for the first two teams per school, and the first 27 teams overall.
 For more details on registration limitations, see [the FAQ]({{ '/faq' | relative_url }}).
-
+-->
 
 ## Part 1. Team registration
 
