@@ -47,6 +47,6 @@ This configuration is subject to change as we approach the competition, but this
 * *Operating system:* Ubuntu 16.04
 * *Installed runtimes:* GCC, Java 8, Python 3
 * *IDEs:* Eclipse, jGRASP
-* *Text editors:* Vim, Emacs, Gedit, Geany, IDLE
+* *Text editors:* Vim, Nano, Emacs, Gedit, Geany, IDLE
 * *Printing:* to be determined.
 
