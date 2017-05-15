@@ -29,7 +29,7 @@ For technical information and rules, see the [FAQ]({{ '/faq/' | relative_url }})
 
 ## TJ IOI 2017
 
-* [Contest materials Github repository]({{ https://github.com/tjsct/tjioi-2017 }})
+[Contest materials (GitHub)](https://github.com/tjsct/tjioi-2017)
 
 ### Study materials
 
