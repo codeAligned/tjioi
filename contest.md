@@ -29,16 +29,18 @@ For technical information and rules, see the [FAQ]({{ '/faq/' | relative_url }})
 
 ## TJ IOI 2017
 
+* [Contest materials Github repository]({{ https://github.com/tjsct/tjioi-2017 }})
+
 ### Study materials
 
 * [Study guide]({{ '/materials/2017/StudyGuide.pdf' | relative_url }})
 
-### Written Round
+### Written round
 
 * [Contest]({{ '/materials/2017/WrittenRound.pdf' | relative_url }})
 * Solutions (to be added)
 
-### Programming Round
+### Programming round
 
 * [Practice contest]({{ '/materials/2017/PracticeProgrammingRound.pdf' | relative_url }})
 * [Contest]({{ '/materials/2017/ProgrammingRound.pdf' | relative_url }})
