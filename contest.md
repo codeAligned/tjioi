@@ -27,6 +27,23 @@ The programming round is 3 hours long, and it's more similar to what you might f
 
 For technical information and rules, see the [FAQ]({{ '/faq/' | relative_url }}).
 
+## TJ IOI 2017
+
+### Study materials
+
+* [Study guide]({{ '/materials/2017/StudyGuide.pdf' | relative_url }})
+
+### Written Round
+
+* [Contest]({{ '/materials/2017/WrittenRound.pdf' | relative_url }})
+* Solutions (to be added)
+
+### Programming Round
+
+* [Practice contest]({{ '/materials/2017/PracticeProgrammingRound.pdf' | relative_url }})
+* [Contest]({{ '/materials/2017/ProgrammingRound.pdf' | relative_url }})
+* [Solutions]({{ '/materials/2017/ProgrammingRoundSolutions.pdf' | relative_url }})
+
 ## TJ IOI 2013
 
 To be added.
