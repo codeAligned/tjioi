@@ -31,7 +31,7 @@ For technical information and rules, see the [FAQ]({{ '/faq/' | relative_url }})
 
 ### Final scoreboard
 
-The written round is worth 600 points in total, and the programming round is worth 1000 points in total, for a total of 1600 points.
+The written round has five problem sections with 200 points in total, and its score is multiplied by three to be worth 600 points. The programming round has ten problems, each worth 100 points in total for a total of 1000 points in total. The total possible point value is 1600 points.
 
 <iframe src="https://docs.google.com/spreadsheets/d/1mBtiw56Rq_8BqciAdtiSwSt5kOjcS4EOkJ7WeV_-VyQ/pubhtml?widget=true&amp;headers=false" style="height: 400px; width: 100%"></iframe>
 
