@@ -29,11 +29,16 @@ For technical information and rules, see the [FAQ]({{ '/faq/' | relative_url }})
 
 ## TJ IOI 2017
 
-[Contest materials (GitHub)](https://github.com/tjsct/tjioi-2017)
+### Final scoreboard
 
-### Study materials
+The written round is worth 600 points in total, and the programming round is worth 1000 points in total, for a total of 1600 points.
+
+<iframe src="https://docs.google.com/spreadsheets/d/1mBtiw56Rq_8BqciAdtiSwSt5kOjcS4EOkJ7WeV_-VyQ/pubhtml?widget=true&amp;headers=false" style="height: 400px; width: 100%"></iframe>
+
+### Materials
 
 * [Study guide]({{ '/materials/2017/StudyGuide.pdf' | relative_url }})
+* [Contest materials (GitHub)](https://github.com/tjsct/tjioi-2017)
 
 ### Written round
 
