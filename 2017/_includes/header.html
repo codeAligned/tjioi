@@ -1,0 +1,17 @@
+<nav class="navbar{%if page.use_hero %} transparent{% endif %}">
+    <div class="container-fluid">
+        <div class="navbar-header">
+            <a href="{{ '/' | relative_url }}">
+                <img src="{{ '/assets/img/logo.svg' | relative_url }}" class="navbar-logo">
+            </a>
+        </div>
+        <ul class="nav navbar-nav navbar-right">
+            {% for my_page in site.pages %}
+            {% if my_page.title %}
+            <li><a href="{{ my_page.url | relative_url }}" class="{% if page.permalink == my_page.permalink %}selectedTab{% endif %}">{{ my_page.title | escape }}</a></li>
+            {% endif %}
+            {% endfor %}
+        </ul>
+    </div>
+</nav>
+

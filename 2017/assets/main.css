@@ -1,0 +1,164 @@
+html {
+    font-size: 1rem;
+}
+
+html, body {
+    height: 100%;
+}
+
+body {
+    font-family: 'Roboto', sans-serif;
+    /*max-width: 60em;*/
+    /*border: 1px solid black;*/
+    margin-top: 0em;
+    overflow-y: scroll;
+    font-size: 1.2rem;
+}
+
+.hero-content, .content {
+    max-width: 60rem;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.navbar {
+    z-index: 2;
+    background: #424242;
+    border: 0px;
+    border-radius: 0;
+    width: 100%;
+    padding: 0 5%;
+}
+
+.transparent {
+    background: transparent;
+}
+
+.nav.navbar-nav.navbar-right {
+    margin-top: 9px;
+}
+
+.nav.navbar-nav.navbar-right li a {
+    font-size: 1.4rem;
+    color: white;
+    background-color: transparent;
+    transition: background-color .2s;
+}
+
+.nav.navbar-nav.navbar-right li a:hover {
+    background-color: rgba(0, 0, 0, .5);
+}
+
+.navbar-logo {
+    vertical-align: middle;
+    height: 60px;
+    margin-top: 8px;
+}
+
+.hero-image {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: 0;
+    /*filter: blur(5px);*/
+    /*opacity: 0.6;*/
+    background-color: rgba(0, 0, 0, 0.45);
+}
+
+.hero {
+    position: relative;
+    padding: 16px;
+    color: white;
+    background-color: #424242;
+    background-image: url(img/tj_dome.jpg);
+    background-position: center 0%;
+    background-size: cover;
+}
+
+.hero-content {
+    z-index: 2;
+    position: relative;
+}
+@media (min-width: 1000px) {
+    .hero-content {
+        margin-top: 200px;
+        text-align: left;
+    }
+}
+.hero-content h1 {
+    font-size: 3rem;
+    margin-bottom: 0;
+    font-weight: 300;
+}
+.hero-content h2 {
+    font-size: 1.7rem;
+    font-weight: 400;
+}
+.hero-content h3 {
+    font-size: 1.5rem;
+    font-weight: 400;
+    margin-top: 0;
+}
+@media (max-width: 640px) {
+    .hero-content h1 {
+        font-size: 2rem;
+    }
+    .hero-content h2 {
+        font-size: 1.5rem;
+    }
+    .hero-content h3 {
+        font-size: 1.3rem;
+    }
+}
+
+.glyphicon {
+    top: 2px;
+}
+
+.schedule {
+    font-size: 1rem;
+}
+
+.full {
+    width: 40%;
+    margin: 15px auto;
+}
+
+.content {
+    padding: 16px 32px;
+    /*background-color: #f8f8f8;*/
+    background-color: white;
+    margin-bottom: 2rem;
+}
+
+.content h1, .content h2, .content h3 {
+    margin-top: 2rem;
+}
+
+.content a {
+    color: #4caf50;
+}
+
+.selectedTab {
+    color: #81c784 !important;
+}
+
+.page-wrapper {
+    min-height: 100%;
+    height: auto;
+    margin: 0 auto -40px;
+    padding: 0 0 40px;
+}
+
+footer {
+    color: white;
+    background-color: #424242;
+    text-align: center;
+    padding: 16px;
+}
+
+footer a {
+    color: #81c784 !important;
+}
