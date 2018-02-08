@@ -50,3 +50,4 @@ This configuration is subject to change as we approach the competition, but this
 * *Text editors:* Vim, Nano, Emacs, Gedit, Geany, IDLE
 * *Printing:* to be determined.
 
+

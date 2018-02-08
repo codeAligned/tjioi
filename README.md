@@ -1,5 +1,5 @@
 # TJ IOI Website
-The website for TJ IOI 2017. Currently, TJ IOI is being run by SCT. If you'd like to help out, contact the SCT officers.
+The website for TJ IOI 2018. Currently, TJ IOI is being run by SCT. If you'd like to help out, contact the SCT officers.
 
 Note that this repo is automatically deployed to https://tjsct.github.io/tjioi/. However, the official website is https://activites.tjhsst.edu/tjioi/, which requires someone to manually pull the Git repo. Don't be too afraid to push commits to the repo: they won't automatically go up on the official URL!
 

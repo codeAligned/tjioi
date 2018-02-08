@@ -5,17 +5,17 @@ permalink: /registration/
 ---
 
 # Registration process
-
-Registration for TJ IOI 2017 closed on **Wednesday, April 19, 2017.**
-If you weren't able to register, we hope to see you next year!
-
 <!--
-Registration for TJ IOI 2017 is now open! The registration deadline is **Wednesday, April 19, 2017.**
+Registration for TJ IOI 2018 closed on **TDB**
+If you weren't able to register, we hope to see you next year!
+-->
+
+Registration for TJ IOI 2018 will be opening soon! The registration deadline is **TBD**.
 Please register as soon as possible, so that we can guarantee your team a spot. We hope you can come!
 
 Note that we can only guarantee spots for the first two teams per school, and the first 27 teams overall.
 For more details on registration limitations, see [the FAQ]({{ '/faq' | relative_url }}).
--->
+
 
 ## Part 1. Team registration
 
@@ -30,7 +30,7 @@ For more details on registration limitations, see [the FAQ]({{ '/faq' | relative
 3.  <p>Next, send a check for the registration fee of $50, payable to TJHSST, addressed as follows:</p>
     <div class="panel panel-default">
         <div class="panel-body">
-            Attn: Thomas Rudwick<br>
+            Attn: Ria Galanos<br>
             TJHSST<br>
             6560 Braddock Road<br>
             Alexandria, VA 22312
@@ -43,7 +43,7 @@ For more details on registration limitations, see [the FAQ]({{ '/faq' | relative
 ## Part 2. Before the competition
 
 <p>
-    After the registration deadline on <strong>April 19</strong>, if there are any changes to your team,
+    After the registration deadline on <strong>TBD</strong>, if there are any changes to your team,
     notify us by email at <a href="mailto:tjioiofficers@gmail.com">tjioiofficers@gmail.com</a> as soon as possible.
     <em>Note that we may not be able to accomodate changes in T-shirt size.</em>
 </p>
@@ -71,4 +71,5 @@ For more details on registration limitations, see [the FAQ]({{ '/faq' | relative
     <a class="btn btn-success btn-lg" style="color: white" target="_blank"
         href="{{ '/materials/2017/StudyGuide.pdf' | relative_url }}">2017 Study Guide (pdf)</a>
 </p>
+
 
