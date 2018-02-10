@@ -13,7 +13,7 @@ TJ IOI consists of a written and a programming section.
 
 ### Study materials
 
-We've released our [2017 Study Guide (pdf)]({{ '/materials/2017/StudyGuide.pdf' | relative_url }}), which you can review to prepare for the competition.
+We've released our [2017 Study Guide (pdf)]({{ '/materials/2017/StudyGuide.pdf' | relative_url }}), which you can review to prepare for the competition. Our 2018 Study Guide will be released shortly!
 
 ### Written section
 
@@ -43,7 +43,7 @@ The written round has five problem sections with 200 points in total, and its sc
 ### Written round
 
 * [Contest]({{ '/materials/2017/WrittenRound.pdf' | relative_url }})
-* Solutions (to be added)
+* [Solutions]({{ 'materials/2017/WrittenRoundSolutions.pdf' | relative_url }})
 
 ### Programming round
 
