@@ -43,7 +43,7 @@ For more details on registration limitations, see [the FAQ]({{ '/faq' | relative
 ## Part 2. Before the competition
 
 <p>
-    After the registration deadline on <strong>TBD</strong>, if there are any changes to your team,
+    After the registration deadline, if there are any changes to your team,
     notify us by email at <a href="mailto:tjioiofficers@gmail.com">tjioiofficers@gmail.com</a> as soon as possible.
     <em>Note that we may not be able to accomodate changes in T-shirt size.</em>
 </p>
@@ -64,7 +64,7 @@ For more details on registration limitations, see [the FAQ]({{ '/faq' | relative
     <a class="btn btn-danger btn-lg" style="color: white" target="_blank"
         href="{{ '/materials/2018/MediaReleaseForm.pdf' | relative_url }}">Media Release Form (pdf)</a>
     <a class="btn btn-success btn-lg" style="color: white" target="_blank"
-        href="{{ '/materials/2017/StudyGuide.pdf' | relative_url }}">2017 Study Guide (pdf)</a>
+        href="{{ '/materials/2017/StudyGuide.pdf' | relative_url }}">Study Guide (pdf)</a>
 </p>
 
 
