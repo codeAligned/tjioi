@@ -10,10 +10,10 @@ Registration for TJ IOI 2018 closed on **TDB**
 If you weren't able to register, we hope to see you next year!
 -->
 
-Registration for TJ IOI 2018 will be opening soon! The registration deadline is **TBD**.
-Please register as soon as possible, so that we can guarantee your team a spot. We hope you can come!
+Registration for TJ IOI 2018 is open!
+Please register as soon as possible and before **4/8/2018**, so that we can guarantee your team a spot. We hope you can come!
 
-Note that we can only guarantee spots for the first two teams per school, and the first 27 teams overall.
+Note that we can only guarantee spots for the first two teams per school.
 For more details on registration limitations, see [the FAQ]({{ '/faq' | relative_url }}).
 
 
@@ -43,7 +43,7 @@ For more details on registration limitations, see [the FAQ]({{ '/faq' | relative
 ## Part 2. Before the competition
 
 <p>
-    After the registration deadline on <strong>TBD</strong>, if there are any changes to your team,
+    After the registration deadline, if there are any changes to your team,
     notify us by email at <a href="mailto:tjioiofficers@gmail.com">tjioiofficers@gmail.com</a> as soon as possible.
     <em>Note that we may not be able to accomodate changes in T-shirt size.</em>
 </p>
@@ -53,23 +53,18 @@ For more details on registration limitations, see [the FAQ]({{ '/faq' | relative
 </p>
 
 1.  <p>Each student is <strong>required</strong> to complete the
-    <a href="{{ '/materials/2017/MediaReleaseForm.pdf' | relative_url }}">Media Release Form (pdf)</a>.
+    <a href="{{ '/materials/2018/MediaReleaseForm.pdf' | relative_url }}">Media Release Form (pdf)</a>.
     This can either be sent in the mail, scanned and sent by e-mail, or brought in person on the day of the competition.
     Additionally, make sure that your students complete any other forms required by your school or school district.</p>
-2.  <p>Ask your students to complete the
-    <a href="https://goo.gl/forms/w4xfLgAwYoCmcQEL2">Student Information Form</a>.
-    This will help us create a better competition this year and in the future.</p>
-3.  <p>We encourage your team to review the
-    <a href="{{ '/materials/2017/StudyGuide.pdf' | relative_url }}">2017 Study Guide (pdf)</a>
-    to prepare for the competition. We are also working on the 2018 Study Guide so stay tuned. Please keep in touch with us about how you're using our materials!</p>
+2.  <p>We encourage your team to review the
+    <a href="{{ '/materials/2017/StudyGuide.pdf' | relative_url }}">Study Guide (pdf)</a>
+    to prepare for the competition. Please keep in touch with us about how you're using our materials!</p>
 
 <p class="text-center">
     <a class="btn btn-danger btn-lg" style="color: white" target="_blank"
-        href="{{ '/materials/2017/MediaReleaseForm.pdf' | relative_url }}">Media Release Form (pdf)</a>
-    <a class="btn btn-primary btn-lg" style="color: white" target="_blank"
-        href="https://goo.gl/forms/w4xfLgAwYoCmcQEL2">Student Information Form</a>
+        href="{{ '/materials/2018/MediaReleaseForm.pdf' | relative_url }}">Media Release Form (pdf)</a>
     <a class="btn btn-success btn-lg" style="color: white" target="_blank"
-        href="{{ '/materials/2017/StudyGuide.pdf' | relative_url }}">2017 Study Guide (pdf)</a>
+        href="{{ '/materials/2017/StudyGuide.pdf' | relative_url }}">Study Guide (pdf)</a>
 </p>
 
 
