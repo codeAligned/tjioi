@@ -10,7 +10,7 @@ Registration for TJ IOI 2018 closed on **TDB**
 If you weren't able to register, we hope to see you next year!
 -->
 
-Registration for TJ IOI 2018 will be opening soon!
+Registration for TJ IOI 2018 is open!
 Please register as soon as possible and before **4/8/2018**, so that we can guarantee your team a spot. We hope you can come!
 
 Note that we can only guarantee spots for the first two teams per school.
