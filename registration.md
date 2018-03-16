@@ -53,7 +53,7 @@ For more details on registration limitations, see [the FAQ]({{ '/faq' | relative
 </p>
 
 1.  <p>Each student is <strong>required</strong> to complete the
-    <a href="{{ '/materials/MediaReleaseForm.pdf' | relative_url }}">Media Release Form (pdf)</a>.
+    <a href="{{ '/materials/2018/MediaReleaseForm.pdf' | relative_url }}">Media Release Form (pdf)</a>.
     This can either be sent in the mail, scanned and sent by e-mail, or brought in person on the day of the competition.
     Additionally, make sure that your students complete any other forms required by your school or school district.</p>
 2.  <p>We encourage your team to review the
@@ -62,7 +62,7 @@ For more details on registration limitations, see [the FAQ]({{ '/faq' | relative
 
 <p class="text-center">
     <a class="btn btn-danger btn-lg" style="color: white" target="_blank"
-        href="{{ '/materials/MediaReleaseForm.pdf' | relative_url }}">Media Release Form (pdf)</a>
+        href="{{ '/materials/2018/MediaReleaseForm.pdf' | relative_url }}">Media Release Form (pdf)</a>
     <a class="btn btn-success btn-lg" style="color: white" target="_blank"
         href="{{ '/materials/2017/StudyGuide.pdf' | relative_url }}">2017 Study Guide (pdf)</a>
 </p>
