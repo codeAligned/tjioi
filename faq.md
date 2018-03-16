@@ -26,13 +26,13 @@ Any high school or secondary school is invited to send students to TJ IOI, apart
 * **How many people are on a team?**<br>
 A team consists of four people. Each team must have one coach, who will chaperone the team.
 * **How many teams can register?**<br>
-We can guarantee a spot for the first two teams from a school, up to a cap of 27 teams. Any additional teams will be placed on a waitlist. We will only attempt to reserve a spot for your team once we receive your registration fee, and we will only cash your check once we have successfully reserved a spot.
+We can guarantee a spot for the first two teams from a school, up to a cap of around 30 teams. Additional teams will be placed on a waitlist. We will only attempt to reserve a spot for your team once we receive your registration fee, and we will only cash your check once we have successfully reserved a spot.
 * **Can I register as an individual or homeschool student?**<br>
 If you are not part of a team, we may still be able to let you register. Please email us for more information.
 
 ## Programming round
 
-* Allowed languages are C, C++, Java, and Python 3.
+* Allowed languages are C, C++, Java, and Python 2/3.
 * Online documentation for these languages will be provided during the programming round.
 * Each team will be given one computer to use, which we will provide.
 * Contestants are not permitted to bring any personal electronic devices, including phones, flash drives, and keyboards.
@@ -45,7 +45,7 @@ If you are not part of a team, we may still be able to let you register. Please 
 This configuration is subject to change as we approach the competition, but this should be reasonably close to the actual configuration.
 
 * *Operating system:* Ubuntu 16.04
-* *Installed runtimes:* GCC, Java 8, Python 3
+* *Installed runtimes:* GCC, Java 8, Python 2/3
 * *IDEs:* Eclipse, jGRASP
 * *Text editors:* Vim, Nano, Emacs, Gedit, Geany, IDLE
 * *Printing:* to be determined.
