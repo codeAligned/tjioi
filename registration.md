@@ -22,7 +22,7 @@ For more details on registration limitations, see [the FAQ]({{ '/faq' | relative
 1.  <p>First, complete the following registration form.
     <strong>Make sure that you enter your email correctly,</strong> as we will use it to contact you.
     We strongly prefer that a teacher or school official fill out the form.</p>
-    <p><a class="btn btn-success btn-lg" style="color: white" target="_blank"
+    <p><a class="btn btn-primary btn-lg" style="color: white" target="_blank"
         href="https://docs.google.com/forms/d/e/1FAIpQLSde37N9szF_qAfVQeLJRYRF59RjaP7GTx2dXr40xhS2GT7xUg/viewform">Registration form</a></p>
 2.  <p>Once you submit the form, you will automatically receive an email with your responses
     and a link to edit your responses. You may use this link to update information for your team, including
@@ -63,7 +63,7 @@ For more details on registration limitations, see [the FAQ]({{ '/faq' | relative
 <p class="text-center">
     <a class="btn btn-danger btn-lg" style="color: white" target="_blank"
         href="{{ '/materials/2018/MediaReleaseForm.pdf' | relative_url }}">Media Release Form (pdf)</a>
-    <a class="btn btn-success btn-lg" style="color: white" target="_blank"
+    <a class="btn btn-primary btn-lg" style="color: white" target="_blank"
         href="{{ '/materials/2017/StudyGuide.pdf' | relative_url }}">Study Guide (pdf)</a>
 </p>
 
