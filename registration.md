@@ -53,21 +53,16 @@ For more details on registration limitations, see [the FAQ]({{ '/faq' | relative
 </p>
 
 1.  <p>Each student is <strong>required</strong> to complete the
-    <a href="{{ '/materials/2017/MediaReleaseForm.pdf' | relative_url }}">Media Release Form (pdf)</a>.
+    <a href="{{ '/materials/MediaReleaseForm.pdf' | relative_url }}">Media Release Form (pdf)</a>.
     This can either be sent in the mail, scanned and sent by e-mail, or brought in person on the day of the competition.
     Additionally, make sure that your students complete any other forms required by your school or school district.</p>
-2.  <p>Ask your students to complete the
-    <a href="https://goo.gl/forms/w4xfLgAwYoCmcQEL2">Student Information Form</a>.
-    This will help us create a better competition this year and in the future.</p>
-3.  <p>We encourage your team to review the
-    <a href="{{ '/materials/2017/StudyGuide.pdf' | relative_url }}">2017 Study Guide (pdf)</a>
-    to prepare for the competition. We are also working on the 2018 Study Guide so stay tuned. Please keep in touch with us about how you're using our materials!</p>
+2.  <p>We encourage your team to review the
+    <a href="{{ '/materials/2017/StudyGuide.pdf' | relative_url }}">Study Guide (pdf)</a>
+    to prepare for the competition. Please keep in touch with us about how you're using our materials!</p>
 
 <p class="text-center">
     <a class="btn btn-danger btn-lg" style="color: white" target="_blank"
-        href="{{ '/materials/2017/MediaReleaseForm.pdf' | relative_url }}">Media Release Form (pdf)</a>
-    <a class="btn btn-primary btn-lg" style="color: white" target="_blank"
-        href="https://goo.gl/forms/w4xfLgAwYoCmcQEL2">Student Information Form</a>
+        href="{{ '/materials/MediaReleaseForm.pdf' | relative_url }}">Media Release Form (pdf)</a>
     <a class="btn btn-success btn-lg" style="color: white" target="_blank"
         href="{{ '/materials/2017/StudyGuide.pdf' | relative_url }}">2017 Study Guide (pdf)</a>
 </p>
