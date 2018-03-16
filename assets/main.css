@@ -138,11 +138,11 @@ body {
 }
 
 .content a {
-    color: #4caf50;
+    color: #579bfa;
 }
 
 .selectedTab {
-    color: #81c784 !important;
+    color: #7ed6e6 !important;
 }
 
 .page-wrapper {
@@ -160,5 +160,5 @@ footer {
 }
 
 footer a {
-    color: #81c784 !important;
+    color: #579bfa !important;
 }
