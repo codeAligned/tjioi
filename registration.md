@@ -23,7 +23,7 @@ For more details on registration limitations, see [the FAQ]({{ '/faq' | relative
     <strong>Make sure that you enter your email correctly,</strong> as we will use it to contact you.
     We strongly prefer that a teacher or school official fill out the form.</p>
     <p><a class="btn btn-success btn-lg" style="color: white" target="_blank"
-        href="https://goo.gl/forms/A98asfYD1NKyzw642">Registration form</a></p>
+        href="https://docs.google.com/forms/d/e/1FAIpQLSde37N9szF_qAfVQeLJRYRF59RjaP7GTx2dXr40xhS2GT7xUg/viewform">Registration form</a></p>
 2.  <p>Once you submit the form, you will automatically receive an email with your responses
     and a link to edit your responses. You may use this link to update information for your team, including
     the team name or students, before the registration deadline.</p>
