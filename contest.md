@@ -36,6 +36,14 @@ Both the written and programming rounds were scaled to be out of 1000 points, fo
 
 <iframe src="https://docs.google.com/spreadsheets/d/1JPdhhePvoMyvKm8_zuRKyarwgtgQMTcurHdWXW9SUF8/pubhtml?widget=true&amp;headers=false" style="height: 400px; width: 100%"></iframe>
 
+### Written round
+
+* [Contest](https://docs.google.com/document/d/1_I2eVWjdZBANivHdbz-xWHyNG6ae2-4k4-yR0l30N1k/edit)
+
+### Programming round
+
+* [Solutions](https://github.com/justinz2018/TJIOI-2018)
+
 ## TJ IOI 2017
 
 ### Final scoreboard
