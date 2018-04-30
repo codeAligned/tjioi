@@ -27,13 +27,22 @@ The programming round is 3 hours long, and it's more similar to what you might f
 
 For technical information and rules, see the [FAQ]({{ '/faq/' | relative_url }}).
 
+
+## TJ IOI 2018
+
+### Final scoreboard
+
+Both the written and programming rounds were scaled to be out of 1000 points, for a total of 2000. The final scoreboard can be seen below.
+
+<iframe src="https://docs.google.com/spreadsheets/d/1JPdhhePvoMyvKm8_zuRKyarwgtgQMTcurHdWXW9SUF8/pubhtml?widget=true&amp;headers=false" style="height: 400px; width: 100%"></iframe>
+
 ## TJ IOI 2017
 
 ### Final scoreboard
 
 The written round has five problem sections with 200 points in total, and its score is multiplied by three to be worth 600 points. The programming round has ten problems, each worth 100 points in total for a total of 1000 points in total. The total possible point value is 1600 points.
 
-<iframe src="https://docs.google.com/spreadsheets/d/1JPdhhePvoMyvKm8_zuRKyarwgtgQMTcurHdWXW9SUF8/pubhtml?widget=true&amp;headers=false" style="height: 400px; width: 100%"></iframe>
+<iframe src="https://docs.google.com/spreadsheets/d/1mBtiw56Rq_8BqciAdtiSwSt5kOjcS4EOkJ7WeV_-VyQ/pubhtml?widget=true&amp;headers=false" style="height: 400px; width: 100%"></iframe>
 
 ### Materials
 
