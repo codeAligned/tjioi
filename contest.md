@@ -38,7 +38,8 @@ Both the written and programming rounds were scaled to be out of 1000 points, fo
 
 ### Written round
 
-* [Contest and Solutions](https://docs.google.com/document/d/1_I2eVWjdZBANivHdbz-xWHyNG6ae2-4k4-yR0l30N1k/edit)
+* [Contest](https://docs.google.com/document/d/1lTI9_IteXhIteb6BCLb3RxWkvP82BNEf2xHtSL_WlB8/edit?usp=sharing)
+* [Solutions](https://docs.google.com/document/d/1_I2eVWjdZBANivHdbz-xWHyNG6ae2-4k4-yR0l30N1k/edit)
 
 ### Programming round
 
